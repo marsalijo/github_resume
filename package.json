@@ -17,7 +17,7 @@
     "css-loader": "^3.4.1",
     "file-loader": "^5.0.2",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
